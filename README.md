@@ -1,5 +1,7 @@
 # Hands-on exercise 1 🎉
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/daea98fd-78ee-4102-9240-18d8f3a92f20.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/actions-fundamentals?orgId=288883884012)  
+
 ## Usage
 
 ### Create a new repository from the template
